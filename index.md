@@ -1,5 +1,4 @@
 ---
-title: Exotic Rettam's blog. Farewell traveller.
+title: Exotic Rettam, Farewell traveller.
 ---
-
 Hey cool, but what is Markdown formatting now ?
