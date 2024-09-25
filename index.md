@@ -1,4 +1,4 @@
 ---
-title: Exotic Rettam, Farewell traveller.
+title: Exotic Rettam, greetings traveller.
 ---
-Enjoy yourself.
+Enjoy yourself, and farewell.
